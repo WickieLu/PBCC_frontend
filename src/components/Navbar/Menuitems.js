@@ -2,7 +2,7 @@
 
 export const MenuItems = [
     {
-        title: 'Home',
+        title: 'Item0',
         url: '#',
         cName: 'nav-links'
     },
@@ -23,8 +23,8 @@ export const MenuItems = [
         cName: 'nav-links'
     },
     {
-        //here add a upload button
-        title: 'Upload',
+        //here add a button
+        title: 'Button',
         url: '#',
         cName: 'nav-links-mobile'
     }

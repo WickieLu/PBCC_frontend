@@ -11,12 +11,11 @@
 }
 
 .navbar-logo {
-    color: white;
-    justify-self: start;
-    margin-left: 20px;
-    cursor: pointer;
+        color: white;
+        justify-self: start;
+        margin-left: 20px;
+        cursor: pointer;   
 }
-
 
 .nav-menu {
     display: grid;

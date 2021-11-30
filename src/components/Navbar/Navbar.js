@@ -33,7 +33,7 @@ class Navbar extends Component {
                         )
                     })}     
                 </ul>
-                <Button>Upload</Button>
+                <Button>Button</Button>
             </nav>
         )
     }

@@ -1,0 +1,28 @@
+.Statistics {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.StatisticsItem {
+    flex: 1;
+    margin: 0px 20px;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    -webkit-box-shadow: 5px 5px 16px 4px #F9F0FF; 
+    box-shadow: 5px 5px 16px 4px #F9F0FF;
+}
+
+.StatisticsTitle {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.StatisticsValue {
+    margin: 20px 0px;
+    display: flex;
+    align-items: center;
+}
+
